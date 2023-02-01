@@ -4,8 +4,7 @@
 - Currently learning Deep learning and NLP.
 - I am working on the project "Single-solution Image Inpainting based on GANs".
 
-# Connect with me:
-[LinkedIn](www.linkedin.com/in/aishwarya39)
+
 
 
 <!---
