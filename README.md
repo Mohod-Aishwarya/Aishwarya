@@ -1,5 +1,6 @@
 - 👋 Hi,I am Aishwarya
 - 👀 I’m a MTech Student and a Data Science enthusiast..
+- Currently learning deep learning and NLP
 
 
 <!---
