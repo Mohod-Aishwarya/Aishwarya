@@ -4,6 +4,9 @@
 - Currently learning Deep learning and NLP.
 - I am working on the project "Single-solution Image Inpainting based on GANs".
 
+# Connect with me:
+[LinkedIn](www.linkedin.com/in/aishwarya39)
+
 
 <!---
 Mohod-Aishwarya/Mohod-Aishwarya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
