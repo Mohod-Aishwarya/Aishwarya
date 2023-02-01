@@ -1,4 +1,4 @@
-# ABOUT
+# About
 - 👋 Hi,I am Aishwarya.
 - 👀 I’m a MTech Student and a Data Science enthusiast.
 - Currently learning Deep learning and NLP.
