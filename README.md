@@ -1,6 +1,7 @@
-- 👋 Hi,I am Aishwarya
-- 👀 I’m a MTech Student and a Data Science enthusiast..
-- Currently learning deep learning and NLP
+- 👋 Hi,I am Aishwarya.
+- 👀 I’m a MTech Student and a Data Science enthusiast.
+- Currently learning Deep learning and NLP.
+- I am working on the project "Single-solution Image Inpainting based on GANs".
 
 
 <!---
