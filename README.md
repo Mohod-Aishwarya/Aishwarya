@@ -3,6 +3,7 @@
 - 👀 I’m a MTech Student and a Data Science enthusiast.
 - Currently learning Deep learning and NLP.
 - I am working on the project "Single-solution Image Inpainting based on GANs".
+- Areas of interest: Data Analytics, Machine learning, Deep learning, NLP and Cyber Security.....
 
 
 
