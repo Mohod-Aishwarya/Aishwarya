@@ -1,8 +1,8 @@
 # About
 - 👋 Hi,I am Aishwarya.
-- 👀 I’m a MTech student and a Data Science enthusiast.
-- Currently, I am working on the project "Single-solution Image Inpainting based on GANs".
-- Areas of interest: Data Analytics, Machine learning, Deep learning, NLP, Cyber Security.....
+- 👀 I am a recent graduate with MTech degree in Artificial Intelligence.
+- Recent project that I worked on is "Single-solution Image Inpainting using GAN".
+- Areas of interest: Data Analytics, Machine learning, Deep learning, Computer Vision
 
 
 
