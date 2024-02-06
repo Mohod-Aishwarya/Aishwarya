@@ -2,7 +2,7 @@
 - 👋 Hi,I am Aishwarya.
 - 👀 I am a recent graduate with MTech degree in Artificial Intelligence.
 - Recent project that I worked on is "Single-solution Image Inpainting using GAN".
-- Areas of interest: Data Analytics, Machine learning, Deep learning, Computer Vision
+- Areas of interest: AI, Machine learning, Deep learning for Computer Vision and NLP, Data Science
 
 
 
